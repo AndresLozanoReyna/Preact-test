@@ -1,0 +1,6 @@
+{
+  "id": "cle5vtm640000jt08onfictk9",
+  "name": "preact-site-test",
+  "distDir": "build",
+  "buildCommand": "npm run build"
+}
